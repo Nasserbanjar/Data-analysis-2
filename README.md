@@ -38,4 +38,15 @@ Dataset: Online_Retail.csv
  For Text Analysis:
 /workspaces/Data-analysis-2/Project3/Sentiment Analysis.ipynb
 
+ You can open these notebooks in Jupyter by running:
+ Python 3.x
+ Jupyter Notebook
+ Pandas
+ NumPy
+ Scikit-learn
+ Matplotlib (optional for visualization)
+ NLTK (for text analysis)
 
+By:
+Nasser Banjar
+Talal salem
